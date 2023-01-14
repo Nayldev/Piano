@@ -16,6 +16,9 @@ self.addEventListener("activate", event=>{
 
 self.addEventListener('fetch', event => {
   console.log(CACHE_NAME)
+  fetch("https://www.google.com/webhp?source=hp&ei=__rCY_GBOvWdkdUPz4e3sAo&iflsig=AK50M_UAAAAAY8MJD7SJKIGC19mAa-624vczHY1xbPwb").then(r=>{
+    console.log(r)
+  })
   event.respondWith((async () => {
     const cache = await caches.open(CACHE_NAME);
 

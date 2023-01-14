@@ -1,0 +1,24 @@
+[
+	{
+		"title": "music2",
+		"midiFile": "music2.mid",
+		"params": {
+			"speed": 4,
+			"converter": "c2",
+			"converterParams": {
+				"mainTrackId": 2
+			}
+		}
+	},
+	{
+		"title": "River flows in you",
+		"midiFile": "RiverFlowsInYou.mid",
+		"params": {
+			"speed": 4,
+			"converter": "c2",
+			"converterParams": {
+				"mainTrackId": 1
+			}
+		}
+	}
+]

@@ -20,5 +20,16 @@
 				"mainTrackId": 1
 			}
 		}
+	},
+	{
+		"title": "music3",
+		"midiFile": "rondo.mid",
+		"params": {
+			"speed": 4,
+			"converter": "c2",
+			"converterParams": {
+				"mainTrackId": 1
+			}
+		}
 	}
 ]

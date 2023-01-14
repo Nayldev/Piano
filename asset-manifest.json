@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tests/phone-react/my-app/build/static/css/main.9e9da6e4.css",
-    "main.js": "/tests/phone-react/my-app/build/static/js/main.6fa74a2d.js",
-    "index.html": "/tests/phone-react/my-app/build/index.html",
-    "main.9e9da6e4.css.map": "/tests/phone-react/my-app/build/static/css/main.9e9da6e4.css.map",
-    "main.6fa74a2d.js.map": "/tests/phone-react/my-app/build/static/js/main.6fa74a2d.js.map"
+    "main.css": "/Piano/static/css/main.9e9da6e4.css",
+    "main.js": "/Piano/static/js/main.6fa74a2d.js",
+    "index.html": "/Piano/index.html",
+    "main.9e9da6e4.css.map": "/Piano/static/css/main.9e9da6e4.css.map",
+    "main.6fa74a2d.js.map": "/Piano/static/js/main.6fa74a2d.js.map"
   },
   "entrypoints": [
     "static/css/main.9e9da6e4.css",

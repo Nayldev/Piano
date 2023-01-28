@@ -1,18 +1,7 @@
 [
 	{
-		"title": "music2",
-		"midiFile": "music2.mid",
-		"params": {
-			"speed": 4,
-			"converter": "c2",
-			"converterParams": {
-				"mainTrackId": 2
-			}
-		}
-	},
-	{
-		"title": "River flows in you",
-		"midiFile": "RiverFlowsInYou.mid",
+		"title": "music1",
+		"midiFile": "mz_333_2.mid",
 		"params": {
 			"speed": 4,
 			"converter": "c2",
@@ -22,8 +11,8 @@
 		}
 	},
 	{
-		"title": "music3",
-		"midiFile": "rondo.mid",
+		"title": "music2",
+		"midiFile": "mz_330_2.mid",
 		"params": {
 			"speed": 4,
 			"converter": "c2",
